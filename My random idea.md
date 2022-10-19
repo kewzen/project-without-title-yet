@@ -1,7 +1,7 @@
 # My random project 
 Its wil be web-projcect(site)
 ## Idea
-###Yet
+### Yet
 Game like bot-bandit
 
 ## Work
